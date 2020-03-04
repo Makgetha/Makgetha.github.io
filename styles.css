@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://www.ecopetit.cat/wpic/mpic/156-1568856_bull-vs-bear.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: #1f4287;
+    font-size: 50px;
+    
+}
+
+form{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+input{
+    color: wheat;
+    background-color:rgb(0, 0, 0);
+}
+
+.btn{
+   
+    height: 30px;
+    width: 100px;
+    font-weight: bolder;
+    font-size: medium;
+    color: teal;
+    border-radius: 10px;
+    
+}
+.btn-primary{
+    background-color: rgba(155, 39, 18, 0.432);
+}
+
+.btn-primary{
+    background-color: rgba(155, 39, 18, 0.432);
+}
